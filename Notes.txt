@@ -1,0 +1,42 @@
+cdn = content delivery network (it connects user to nearest server to get data)
+cdnjs fontawsome from cdnjs libraries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STEPS DID:-
+1) titled amazon clone
+2) connected style.css to index.html
+3) connected cdnjs fontawsome to index.html
+4) copy icon html link from fontawsome site , paste in index.html and it shows on webpage
+   it is present in the file got from cdnjs fontawsome, so actually we are getting it form there
+5)
